@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\704385\\.nuget\\packages\\": {},
+    "C:\\Users\\746353\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\704385\\GitHub\\TeamProject\\TeamApp\\TeamApp\\TeamApp.csproj",
+      "projectUniqueName": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\746353\\GitHub\\TeamProject\\TeamApp\\TeamApp\\TeamApp.csproj",
       "projectName": "TeamApp",
-      "projectPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\704385\\GitHub\\TeamProject\\TeamApp\\TeamApp\\TeamApp.csproj",
-      "packagesPath": "C:\\Users\\704385\\.nuget\\packages\\",
-      "outputPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\704385\\GitHub\\TeamProject\\TeamApp\\TeamApp\\obj\\",
+      "projectPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\746353\\GitHub\\TeamProject\\TeamApp\\TeamApp\\TeamApp.csproj",
+      "packagesPath": "C:\\Users\\746353\\.nuget\\packages\\",
+      "outputPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\746353\\GitHub\\TeamProject\\TeamApp\\TeamApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\704385\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\746353\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
