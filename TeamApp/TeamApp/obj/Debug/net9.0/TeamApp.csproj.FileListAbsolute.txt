@@ -1,0 +1,5 @@
+\\dom.sandwell.ac.uk\Student\HomeOdd\746353\GitHub\TeamProject\TeamApp\TeamApp\obj\Debug\net9.0\TeamApp.GeneratedMSBuildEditorConfig.editorconfig
+\\dom.sandwell.ac.uk\Student\HomeOdd\746353\GitHub\TeamProject\TeamApp\TeamApp\obj\Debug\net9.0\TeamApp.AssemblyInfoInputs.cache
+\\dom.sandwell.ac.uk\Student\HomeOdd\746353\GitHub\TeamProject\TeamApp\TeamApp\obj\Debug\net9.0\TeamApp.AssemblyInfo.cs
+\\dom.sandwell.ac.uk\Student\HomeOdd\746353\GitHub\TeamProject\TeamApp\TeamApp\obj\Debug\net9.0\TeamApp.csproj.CoreCompileInputs.cache
+\\dom.sandwell.ac.uk\Student\HomeOdd\746353\GitHub\TeamProject\TeamApp\TeamApp\obj\Debug\net9.0\TeamApp.sourcelink.json

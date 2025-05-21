@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\659820\\GitHub\\TeamProject\\TeamApp\\",
   "Documents": [
     {
@@ -7,6 +8,15 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{6659374A-E2F3-484E-BBE4-A974F62A8984}|TeamApp\\TeamApp.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\659820\\github\\teamproject\\teamapp\\teamapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\746353\\GitHub\\TeamProject\\TeamApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6659374A-E2F3-484E-BBE4-A974F62A8984}|TeamApp\\TeamApp.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\746353\\github\\teamproject\\teamapp\\teamapp\\idrees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6659374A-E2F3-484E-BBE4-A974F62A8984}|TeamApp\\TeamApp.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\746353\\github\\teamproject\\teamapp\\teamapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 4da0c2e88d8074cead90c08d1adac52908a6a6a0
     }
   ],
   "DocumentGroupContainers": [
@@ -21,6 +31,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "Asiya.cs",
               "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\659820\\GitHub\\TeamProject\\TeamApp\\TeamApp\\Asiya.cs",
               "RelativeDocumentMoniker": "TeamApp\\Asiya.cs",
@@ -42,6 +53,25 @@
               "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\659820\\GitHub\\TeamProject\\TeamApp\\TeamApp\\Program.cs",
               "RelativeDocumentMoniker": "TeamApp\\Program.cs",
               "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\659820\\GitHub\\TeamProject\\TeamApp\\TeamApp\\Program.cs",
+=======
+              "Title": "Idrees.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\746353\\GitHub\\TeamProject\\TeamApp\\TeamApp\\Idrees.cs",
+              "RelativeDocumentMoniker": "TeamApp\\Idrees.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\746353\\GitHub\\TeamProject\\TeamApp\\TeamApp\\Idrees.cs*",
+              "RelativeToolTip": "TeamApp\\Idrees.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:53:29.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\746353\\GitHub\\TeamProject\\TeamApp\\TeamApp\\Program.cs",
+              "RelativeDocumentMoniker": "TeamApp\\Program.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\746353\\GitHub\\TeamProject\\TeamApp\\TeamApp\\Program.cs",
+>>>>>>> 4da0c2e88d8074cead90c08d1adac52908a6a6a0
               "RelativeToolTip": "TeamApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
