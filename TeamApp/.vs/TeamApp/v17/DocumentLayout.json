@@ -1,10 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\666372\\source\\repos\\TeamApp\\",
+  "WorkspaceRootPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\701430\\GitHub\\CodingWork\\TeamProject\\TeamApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6659374A-E2F3-484E-BBE4-A974F62A8984}|TeamApp\\TeamApp.csproj|c:\\users\\666372\\source\\repos\\teamapp\\teamapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6659374A-E2F3-484E-BBE4-A974F62A8984}|TeamApp\\TeamApp.csproj|solutionrelative:teamapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6659374A-E2F3-484E-BBE4-A974F62A8984}|TeamApp\\TeamApp.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\701430\\github\\codingwork\\teamproject\\teamapp\\teamapp\\andrii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6659374A-E2F3-484E-BBE4-A974F62A8984}|TeamApp\\TeamApp.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\701430\\github\\codingwork\\teamproject\\teamapp\\teamapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6659374A-E2F3-484E-BBE4-A974F62A8984}|TeamApp\\TeamApp.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\701430\\github\\codingwork\\teamproject\\teamapp\\teamapp\\teamapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +24,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Andrii.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\701430\\GitHub\\CodingWork\\TeamProject\\TeamApp\\TeamApp\\Andrii.cs",
+              "RelativeDocumentMoniker": "TeamApp\\Andrii.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\701430\\GitHub\\CodingWork\\TeamProject\\TeamApp\\TeamApp\\Andrii.cs",
+              "RelativeToolTip": "TeamApp\\Andrii.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:53:38.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamApp",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\701430\\GitHub\\CodingWork\\TeamProject\\TeamApp\\TeamApp\\TeamApp.csproj",
+              "RelativeDocumentMoniker": "TeamApp\\TeamApp.csproj",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\701430\\GitHub\\CodingWork\\TeamProject\\TeamApp\\TeamApp\\TeamApp.csproj",
+              "RelativeToolTip": "TeamApp\\TeamApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T16:52:25.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\666372\\source\\repos\\TeamApp\\TeamApp\\Program.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\701430\\GitHub\\CodingWork\\TeamProject\\TeamApp\\TeamApp\\Program.cs",
               "RelativeDocumentMoniker": "TeamApp\\Program.cs",
-              "ToolTip": "C:\\Users\\666372\\source\\repos\\TeamApp\\TeamApp\\Program.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\701430\\GitHub\\CodingWork\\TeamProject\\TeamApp\\TeamApp\\Program.cs",
               "RelativeToolTip": "TeamApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T16:48:14.782Z",
               "EditorCaption": ""
