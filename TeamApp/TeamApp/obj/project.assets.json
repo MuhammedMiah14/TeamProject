@@ -9,7 +9,11 @@
   },
   "packageFolders": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\744451\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\659820\\.nuget\\packages\\": {},
+>>>>>>> 530d362322f65d34721640b1594b7b435e3e3605
 =======
     "C:\\Users\\746353\\.nuget\\packages\\": {},
 >>>>>>> 4da0c2e88d8074cead90c08d1adac52908a6a6a0
@@ -19,11 +23,19 @@
     "version": "1.0.0",
     "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "projectUniqueName": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\744451\\GitHub\\TeamProject\\TeamApp\\TeamApp\\TeamApp.csproj",
       "projectName": "TeamApp",
       "projectPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\744451\\GitHub\\TeamProject\\TeamApp\\TeamApp\\TeamApp.csproj",
       "packagesPath": "C:\\Users\\744451\\.nuget\\packages\\",
       "outputPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\744451\\GitHub\\TeamProject\\TeamApp\\TeamApp\\obj\\",
+=======
+      "projectUniqueName": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\659820\\GitHub\\TeamProject\\TeamApp\\TeamApp\\TeamApp.csproj",
+      "projectName": "TeamApp",
+      "projectPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\659820\\GitHub\\TeamProject\\TeamApp\\TeamApp\\TeamApp.csproj",
+      "packagesPath": "C:\\Users\\659820\\.nuget\\packages\\",
+      "outputPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\659820\\GitHub\\TeamProject\\TeamApp\\TeamApp\\obj\\",
+>>>>>>> 530d362322f65d34721640b1594b7b435e3e3605
 =======
       "projectUniqueName": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\746353\\GitHub\\TeamProject\\TeamApp\\TeamApp\\TeamApp.csproj",
       "projectName": "TeamApp",
@@ -37,7 +49,11 @@
       ],
       "configFilePaths": [
 <<<<<<< HEAD
+<<<<<<< HEAD
         "C:\\Users\\744451\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\659820\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 530d362322f65d34721640b1594b7b435e3e3605
 =======
         "C:\\Users\\746353\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> 4da0c2e88d8074cead90c08d1adac52908a6a6a0
