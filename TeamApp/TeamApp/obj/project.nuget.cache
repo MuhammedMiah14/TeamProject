@@ -1,10 +1,26 @@
 {
   "version": 2,
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "dgSpecHash": "vi0l6kHbZ4M=",
+  "success": true,
+  "projectFilePath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\744451\\GitHub\\TeamProject\\TeamApp\\TeamApp\\TeamApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\744451\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.0\\microsoft.netcore.app.host.win-x64.9.0.0.nupkg.sha512"
+=======
+  "dgSpecHash": "NtVVkkWY+9g=",
+  "success": true,
+  "projectFilePath": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\659820\\GitHub\\TeamProject\\TeamApp\\TeamApp\\TeamApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\659820\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.0\\microsoft.netcore.app.host.win-x64.9.0.0.nupkg.sha512"
+>>>>>>> 530d362322f65d34721640b1594b7b435e3e3605
+=======
   "dgSpecHash": "kxD+8jKPxhU=",
   "success": true,
   "projectFilePath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\746353\\GitHub\\TeamProject\\TeamApp\\TeamApp\\TeamApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\746353\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.0\\microsoft.netcore.app.host.win-x64.9.0.0.nupkg.sha512"
+>>>>>>> 4da0c2e88d8074cead90c08d1adac52908a6a6a0
   ],
   "logs": []
 }
